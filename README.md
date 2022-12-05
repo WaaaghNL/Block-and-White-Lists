@@ -1,0 +1,2 @@
+# BadBots
+Bad Web Crawlers
